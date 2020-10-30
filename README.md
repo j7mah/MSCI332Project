@@ -1,1 +1,1 @@
-# MSCI332Project
+# MSCI 332 Project
