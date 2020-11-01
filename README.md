@@ -1,7 +1,8 @@
 # MSCI 332 Project
 <html>
     <div>
-How to Set up Environment
+How to Set up Environment: 
+        
 1) Download git onto your computer.
 
 2) Open terminal and go to the path you want the repository to be stored. Use the following command:
